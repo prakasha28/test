@@ -6,7 +6,9 @@ adding VIBGYOR
 violet
 indigo
 blue
+tree
 green
 yellow
 orragne
 red
+added tree
